@@ -10,7 +10,8 @@
 ### 의존성 패키지 설치
 'ethers'와 'dotenv' 라이브러리를 사용하기 위해 터미널에 아래 명령어를 입력합니다.
 ```bash
-npm install ```
+npm install
+```
 
 ### (.env) 파일 설정
 보안을 위하여 API 키는 직접적으로 노출하지 않습니다.
@@ -18,9 +19,12 @@ npm install ```
 
 ### 실행 방법
   Assignment #3 (json-rpc) 실행
-  ```bash
-node json-rpc/index.js ```
+```bash
+node json-rpc/index.js
+```
 
   Assignment #4 (ethers.js) 실행
 ```bash
-node ethers/index.js ```
+node ethers/index.js
+```
+
